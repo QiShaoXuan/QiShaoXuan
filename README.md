@@ -4,7 +4,7 @@
 
 - Full-time employee
 - Find my resume [here!(China mainland)](https://github.com/QiShaoXuan/resume)
-- Currently, working for [Affine](https://affine.gitbook.io/affine/) as frontend engineer
+- Currently, working for [Affine](https://affine.gitbook.io/affine/) as full-stack engineer
 - Chat with me about anything in this universe by qishaoxuan777@gmail.com(or 474021214@qq.com)
 - Give me a STAR⭐, if you like [my repositories!](https://github.com/QiShaoXuan?tab=repositories&q=&type=&language=&sort=stargazers)
 
