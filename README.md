@@ -4,7 +4,7 @@
 
 - Full-time employee
 - Find my resume [here!(China mainland)](https://github.com/QiShaoXuan/resume)
-- Last work was as full-stack engineer at [Affine](https://affine.gitbook.io/affine/)
+- I am working at [ByteDance](https://www.bytedance.com/en) as a front-end engineer
 - Currently looking for a job，my [resume](https://github.com/QiShaoXuan/resume)
 - Chat with me about anything in this universe by qishaoxuan777@gmail.com(or 474021214@qq.com)
 - Give me a STAR⭐, if you like [my repositories!](https://github.com/QiShaoXuan?tab=repositories&q=&type=&language=&sort=stargazers)
